@@ -1,0 +1,12 @@
+# Ambiente e segredos (nunca vão para o GitHub)
+.env
+.venv/
+venv/
+__pycache__/
+
+# Dados reais de clientes e relatórios gerados
+dados/
+saida/
+*.xlsx
+
+# A pasta dados_exemplo/ (dados fictícios) PODE ir para o GitHub

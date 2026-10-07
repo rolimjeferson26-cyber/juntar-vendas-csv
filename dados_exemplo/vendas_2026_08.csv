@@ -1,0 +1,38 @@
+data;produto;quantidade;preco_unitario
+01/08/2026;Tosta mista;8;3,50
+06/08/2026;Tosta mista;8;3,50
+12/08/2026;Pastel de nata;5;1,30
+09/08/2026;Tosta mista;5;3,50
+01/08/2026;Bolo do dia;4;2,20
+08/08/2026;Café;7;0,80
+18/08/2026;Sumo natural;4;2,75
+21/08/2026;Sumo natural;8;2,75
+26/08/2026;Sumo natural;1;2,75
+10/08/2026;Café;4;0,80
+23/08/2026;Sumo natural;4;2,75
+22/08/2026;Tosta mista;6;3,50
+18/08/2026;Sumo natural;6;2,75
+24/08/2026;Sumo natural;6;2,75
+23/08/2026;Tosta mista;8;3,50
+10/08/2026;Tosta mista;5;3,50
+04/08/2026;Pastel de nata;4;1,30
+04/08/2026;Tosta mista;3;3,50
+07/08/2026;Pastel de nata;8;1,30
+24/08/2026;Tosta mista;5;3,50
+27/08/2026;Café;4;0,80
+08/08/2026;Tosta mista;6;3,50
+10/08/2026;Pastel de nata;1;1,30
+05/08/2026;Bolo do dia;5;2,20
+02/08/2026;Café;5;0,80
+21/08/2026;Pastel de nata;8;1,30
+28/08/2026;Café;1;0,80
+10/08/2026;Bolo do dia;8;2,20
+15/08/2026;Sumo natural;6;2,75
+02/08/2026;Pastel de nata;5;1,30
+04/08/2026;Sumo natural;2;2,75
+16/08/2026;Sumo natural;2;2,75
+21/08/2026;Bolo do dia;1;2,20
+05/08/2026;Pastel de nata;5;1,30
+08/08/2026;Café;2;0,80
+25/08/2026;Bolo do dia;7;2,20
+20/08/2026;Bolo do dia;4;2,20
